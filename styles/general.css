@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: seashell;
+  /* background: linear-gradient(90deg, #09203F, #537895); */
+  /* background: linear-gradient(90deg, #764BA2, #667EEA); */
+  background: linear-gradient(90deg, #28313B, #485461);
+  padding: 0;
+  margin: 69px 0px 0px 0px;
+
+}
+* {
+  padding: 0;
+  margin: 0;
+}
